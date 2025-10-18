@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.0",
+    "express": "^5.1.0",
     "pino": "^10.1.0",
     "qrcode-terminal": "^0.12.0"
   }
